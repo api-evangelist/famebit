@@ -30,7 +30,7 @@ x-status: defunct
 x-status-reason: Acquired by Google (Oct 2016), folded into YouTube BrandConnect;
   famebit.com now 301/302-redirects to support.google.com/youtube. No live API surface.
 x-status-verified: '2026-07-19'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
